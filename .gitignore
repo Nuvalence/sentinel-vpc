@@ -1,0 +1,7 @@
+*.zip
+*.swp
+.terraform/
+terraform*
+run/
+tmp/
+__pycache__
